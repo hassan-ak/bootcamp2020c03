@@ -5,7 +5,7 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App name="Hassan Ali Khan"/>
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
