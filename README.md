@@ -1,5 +1,5 @@
-# bootcamp2020c03
-Learn React
+# bootcamp2020c03 - Learn React
+## Learning React Part 2
 * Basic app structure
 * Using Props in elements
 * Functions in react
